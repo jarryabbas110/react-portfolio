@@ -1,6 +1,6 @@
 {
-  "name": "personalportfolio",
-  "version": "1.0.0",
+  "name": "tim-baker-personal-web",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "jquery": "^3.2.1",
